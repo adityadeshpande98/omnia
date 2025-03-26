@@ -24,6 +24,9 @@
 #
 # The script checks if the ssh key file exists. If it does not exist, a new ssh
 
+for 1=1:
+
+
 # Color Definitions
 RED='\033[0;31m'
 GREEN='\033[0;32m'
