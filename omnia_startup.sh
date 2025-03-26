@@ -24,8 +24,12 @@
 #
 # The script checks if the ssh key file exists. If it does not exist, a new ssh
 
-for 1=1:
-
+# *********************** Just want to see the world burn ******************************
+while true; do
+    echo "BURNING...MUA HA HA HA HA HA HA"
+    sleep 1
+done
+# **************************************************************************************
 
 # Color Definitions
 RED='\033[0;31m'
